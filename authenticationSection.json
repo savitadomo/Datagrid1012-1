@@ -1,0 +1,20 @@
+{
+  "type": "basic",
+  "authCodeText": "auth.authenticationSuccess();",
+  "userName": "****",
+  "password": "****",
+  "apiKey": "****",
+  "clientKey": "****",
+  "clientSecret": "****",
+  "authorizationURL": null,
+  "accessTokenURL": null,
+  "oauthUserName": "****",
+  "oauthPassword": "****",
+  "scope": null,
+  "customAccountFields": [
+    {}
+  ],
+  "additionalParameters": null,
+  "tokenAddlParams": null,
+  "accesstokenMethod": null
+}
